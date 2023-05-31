@@ -1,0 +1,9 @@
+1 A) la respuesta es 8
+1 B) la respuesta es 204
+2 A) la respuesta es 15
+2 B) la respuesta es 66.25
+3 A) son 10 grados Celcius
+3 B) son 23.8888888889 Celcius
+4 A) la respuesta es 7
+4 B) la respuesta es -4.333333333333333
+4 C) la respuesta es 0.2666666666666666
